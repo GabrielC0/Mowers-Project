@@ -6,13 +6,6 @@
   display: flex;
 }
 
-.Jardin {
-  background: #006c09;
-  height: 500px;
-  width: 50%;
-  margin-top: 12%;
-}
-
 .Mower {
   width: 100px;
   height: 100px;
